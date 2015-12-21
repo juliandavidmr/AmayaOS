@@ -34,6 +34,7 @@ For testing Fnx on a real PC you may burn the boot ISO image in an empty CD/DVD,
 
 ## Español
 ### Como usar AMAYA-OS
+#### Nota: Solamente se puede compilar en sistemas operativos de 32 bits 
 1. Compilación:
  * Para compilar Fnx, se debe entrar al directorio en que se encuentra el código fuente desde una consola y escribir:
  
